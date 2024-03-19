@@ -4,6 +4,9 @@ Start to GrabIT with the most ADVANCED OTP bot on the market. With more than 10 
 
 Reach out to https://t.me/grabitowner to see the bot in action.
 
+![otp-bot](https://github.com/GrabITOTP/GrabIT-OTPv2/assets/164067691/89fe4574-1713-4ab6-8b08-8ecb63855e28)
+
+
 # Why GrabIT-OTPBOT
 
 • Custom Caller ID (can use any company or bank) <br>
