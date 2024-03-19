@@ -21,4 +21,4 @@ Reach out to https://t.me/grabitowner to see the bot in action.
 ### GrabIT-OTPBOT in action
 ---
 
-Reach out to https://t.me/grabitowne to see the bot in action. GrabIT-OTPBOT Bypass SMS verifications from PayPal, Google, Apple, 3DSecure and ALL other financial institutions.
+Reach out to https://t.me/grabitowner to see the bot in action. GrabIT-OTPBOT Bypass SMS verifications from PayPal, Google, Apple, 3DSecure and ALL other financial institutions.
