@@ -4,7 +4,7 @@ Start to GrabIT with the most ADVANCED OTP bot on the market. With more than 10 
 
 Reach out to https://t.me/grabitowner to see the bot in action.
 
-# <small>Why GrabIT-OTPBOT</small>
+# Why GrabIT-OTPBOT
 
 • Custom Caller ID (can use any company or bank) <br>
 • Topnotch Human like voice <br>
