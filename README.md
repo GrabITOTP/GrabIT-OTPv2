@@ -5,7 +5,8 @@ Start to GrabIT with the most ADVANCED OTP bot on the market. With more than 10 
 
 Reach out to https://t.me/grabitowner to see the bot in action.
 
-![grabit-otp](https://github.com/GrabITOTP/GrabIT-OTPv2/assets/164067691/81d50e22-4723-48e9-9ce0-f55f2363bea5)
+<img src="https://github.com/GrabITOTP/GrabIT-OTPv2/blob/main/grabit-otp.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+
 
 
 ### Why GrabIT-OTPBOT
