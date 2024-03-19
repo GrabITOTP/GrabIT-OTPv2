@@ -7,11 +7,11 @@ Reach out to https://t.me/grabitowner to see the bot in action.
 # Why GrabIT-OTPBOT
 <br>
 
-• Custom Caller ID (can use any company or bank)
-• Topnotch Human like voice
-• Multiple modes to choose from
-• Multiple languages & countries supported
-• Costumer Service is end-to-end and encrypted
+• Custom Caller ID (can use any company or bank) <br>
+• Topnotch Human like voice <br>
+• Multiple modes to choose from <br>
+• Multiple languages & countries supported <br>
+• Costumer Service is end-to-end and encrypted <br>
 • Hosted in bulletproof servers
 
 # GrabIT-OTPBOT in action
